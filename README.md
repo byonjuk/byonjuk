@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I know you're watching me   ⊙_⊙
+
+<div align="center">
+  ![금성무 눈 깜빡깜빡](https://github.com/user-attachments/assets/7def379a-14ba-4f27-97eb-da2e428e92c0)
+</div>
+
 ![금성무 눈 깜빡깜빡](https://github.com/user-attachments/assets/7def379a-14ba-4f27-97eb-da2e428e92c0)
 
 
