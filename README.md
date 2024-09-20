@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7def379a-14ba-4f27-97eb-da2e428e92c0" alt="금성무 눈 깜빡깜빡" width="400" />
+  <img src="https://github.com/user-attachments/assets/7def379a-14ba-4f27-97eb-da2e428e92c0" alt="금성무 눈 깜빡깜빡" width="250" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1a0c1720-ea10-484e-b443-37099e9d21ba" alt="2222" width="400" />
+  <img src="https://github.com/user-attachments/assets/1a0c1720-ea10-484e-b443-37099e9d21ba" alt="2222" width="250" />
 </p>
 
 <p align="center">
